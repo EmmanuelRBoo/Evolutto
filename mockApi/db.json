@@ -1,0 +1,68 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "username": "Emmanuel",
+      "email": "EmmanuelHonoratoBoo@gmail.com",
+      "image": "https://st4.depositphotos.com/1012074/25277/v/600/depositphotos_252773324-stock-illustration-young-avatar-face-with-sunglasses.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Yasmin",
+      "email": "YasminHonoratoBoo@gmail.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybfZDCOylNw3wPpQ9r0F9khF0mXeRcSzx5A&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "username": "Namiê",
+      "email": "NamiêHonoratoBoo@gmail.com",
+      "image": "https://cdn.pixabay.com/photo/2017/06/13/12/53/profile-2398782_1280.png"
+    }
+  ],
+  "admins": [
+    {
+      "id": 0,
+      "name": "Nenhum"
+    },
+    {
+      "id": 1,
+      "name": "Consultor 1"
+    },
+    {
+      "id": 2,
+      "name": "Consultor 2"
+    },
+    {
+      "id": 3,
+      "name": "Consultor 3"
+    }
+  ],
+  "doubts": [
+    {
+      "title": "Dúvida 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum, nunc eu accumsan vulputate, tortor quam sollicitudin nisl, in tempor ex est eget ipsum. Phasellus vitae nulla sollicitudin, efficitur ex a, interdum ante. Curabitur ut erat felis. Donec fringilla consequat tortor, ac tristique mauris rhoncus sed. Sed luctus dolor neque. Proin tristique neque tortor, quis dictum risus rhoncus sit amet. Mauris eu ante volutpat, suscipit turpis aliquam, venenatis neque."
+    },
+    {
+      "title": "Dúvida 2",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum, nunc eu accumsan vulputate, tortor quam sollicitudin nisl, in tempor ex est eget ipsum. Phasellus vitae nulla sollicitudin, efficitur ex a, interdum ante. Curabitur ut erat felis. Donec fringilla consequat tortor, ac tristique mauris rhoncus sed. Sed luctus dolor neque. Proin tristique neque tortor, quis dictum risus rhoncus sit amet. Mauris eu ante volutpat, suscipit turpis aliquam, venenatis neque."
+    },
+    {
+      "title": "Dúvida 3",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum, nunc eu accumsan vulputate, tortor quam sollicitudin nisl, in tempor ex est eget ipsum. Phasellus vitae nulla sollicitudin, efficitur ex a, interdum ante. Curabitur ut erat felis. Donec fringilla consequat tortor, ac tristique mauris rhoncus sed. Sed luctus dolor neque. Proin tristique neque tortor, quis dictum risus rhoncus sit amet. Mauris eu ante volutpat, suscipit turpis aliquam, venenatis neque."
+    },
+    {
+      "title": "Dúvida 4",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum, nunc eu accumsan vulputate, tortor quam sollicitudin nisl, in tempor ex est eget ipsum. Phasellus vitae nulla sollicitudin, efficitur ex a, interdum ante. Curabitur ut erat felis. Donec fringilla consequat tortor, ac tristique mauris rhoncus sed. Sed luctus dolor neque. Proin tristique neque tortor, quis dictum risus rhoncus sit amet. Mauris eu ante volutpat, suscipit turpis aliquam, venenatis neque."
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 0,
+      "userId": 1,
+      "adminId": 0,
+      "type": "",
+      "screenshot": "",
+      "feedback": ""
+    }
+  ]
+}
