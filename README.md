@@ -29,7 +29,8 @@
   
 ## Protótipos
   [Figma](https://www.figma.com/file/ehGzXaMZY54fRnVrlr83qP/Evolutto-Processo-Seletivo?node-id=0%3A1)     
-  [Figma proto](https://www.figma.com/proto/ehGzXaMZY54fRnVrlr83qP/Untitled?node-id=3%3A80&scaling=contain&page-id=0%3A1)            
+  [Figma proto](https://www.figma.com/proto/ehGzXaMZY54fRnVrlr83qP/Untitled?node-id=3%3A80&scaling=contain&page-id=0%3A1) 
+  [Documento explicativo](https://docs.google.com/document/d/1e0SKFn2BeabwlqHWKjYZSRaDn3ICKyfYqpw4JGh0-Cw/edit?usp=sharing)
   [Codesandbox](https://codesandbox.io/s/evolutto-wsc6xm)     
   ps: Não consegui fazer o json-server ligar no Codesandbox.
  
