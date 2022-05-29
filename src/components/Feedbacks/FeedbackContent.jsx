@@ -12,7 +12,7 @@ export default function FeedbackContent({ setTitle, title, type }) {
   const [adminId, setAdmId] = useState(0)
   const [text, setText] = useState('')
   const [sending, isSending] = useState(false)
-  const [sent, setSent] = useState(true)
+  const [sent, setSent] = useState(false)
 
   const login = useSelector(state => state.login.user)
   const admins = useSelector(state => state.admins.admins)
